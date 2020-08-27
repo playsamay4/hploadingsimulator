@@ -1,0 +1,14 @@
+C:\Users\salee\source\repos\hp loading\hp loading\bin\Debug\hp loading.exe.config
+C:\Users\salee\source\repos\hp loading\hp loading\bin\Debug\hp loading.exe
+C:\Users\salee\source\repos\hp loading\hp loading\bin\Debug\hp loading.pdb
+C:\Users\salee\source\repos\hp loading\hp loading\obj\Debug\hp_loading.Form1.resources
+C:\Users\salee\source\repos\hp loading\hp loading\obj\Debug\hp_loading.Properties.Resources.resources
+C:\Users\salee\source\repos\hp loading\hp loading\obj\Debug\hp loading.csproj.GenerateResource.cache
+C:\Users\salee\source\repos\hp loading\hp loading\obj\Debug\hp loading.csproj.CoreCompileInputs.cache
+C:\Users\salee\source\repos\hp loading\hp loading\obj\Debug\hp loading.exe
+C:\Users\salee\source\repos\hp loading\hp loading\obj\Debug\hp loading.pdb
+C:\Users\salee\source\repos\hp loading\hp loading\bin\Debug\hp loading.exe.manifest
+C:\Users\salee\source\repos\hp loading\hp loading\bin\Debug\hp loading.application
+C:\Users\salee\source\repos\hp loading\hp loading\obj\Debug\hp loading.exe.manifest
+C:\Users\salee\source\repos\hp loading\hp loading\obj\Debug\hp loading.application
+C:\Users\salee\source\repos\hp loading\hp loading\obj\Debug\hp loading.csprojAssemblyReference.cache
